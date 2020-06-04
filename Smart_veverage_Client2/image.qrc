@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/drinks">
+        <file>drink1.png</file>
+        <file>drink2.jpg</file>
+        <file>drink3.jpg</file>
+        <file>drink4.jpg</file>
+        <file>drink5.jpg</file>
+        <file>drink6.jpg</file>
+        <file>drink7.jpg</file>
+        <file>drink8.jpg</file>
+        <file>recharge.jpg</file>
+        <file>hot.jpg</file>
+        <file>QRcode.JPG</file>
+        <file>QRcode2.JPG</file>
+        <file>a.mp4</file>
+    </qresource>
+</RCC>
